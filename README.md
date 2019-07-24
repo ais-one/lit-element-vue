@@ -2,7 +2,7 @@
 
 See article below for write up on this repository
 
-(https://medium.zenika.com/using-lit-element-with-vue-js-fa873df4f2a4)[https://medium.zenika.com/using-lit-element-with-vue-js-fa873df4f2a4]
+[https://medium.zenika.com/using-lit-element-with-vue-js-fa873df4f2a4](https://medium.zenika.com/using-lit-element-with-vue-js-fa873df4f2a4)
 
 ## Project setup
 ```
